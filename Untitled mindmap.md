@@ -13,7 +13,7 @@ mindmap-plugin: basic
 
 ## Sub title
 - 3
-- sub 4
+-[[ sub 4]]
 - sub 5
 	- Sub 5.2
 
