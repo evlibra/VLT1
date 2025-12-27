@@ -4,7 +4,7 @@ mindmap-plugin: basic
 
 ---
 
-# mindmap-plugin: basic
+# mindmap
 
 ## sub1
 - Sub title
