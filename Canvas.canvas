@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"28b1d040fa00a9f5","x":-540,"y":100,"width":292,"height":392,"type":"file","file":"Untitled mindmap.md"},
+		{"id":"36a70082b3773f44","x":320,"y":-40,"width":400,"height":400,"type":"file","file":"sub 4.md"},
+		{"id":"78090de41f11c43b","x":-760,"y":100,"width":100,"height":160,"color":"3","type":"text","text":"ccc\ncard1"},
+		{"id":"2e63b15ba85a67f4","x":-80,"y":30,"width":220,"height":300,"type":"file","file":"Untitled.md"}
+	],
+	"edges":[
+		{"id":"6117d5cef9ee28e8","fromNode":"2e63b15ba85a67f4","fromSide":"right","toNode":"36a70082b3773f44","toSide":"left"},
+		{"id":"65c399af88c9c076","fromNode":"2e63b15ba85a67f4","fromSide":"left","toNode":"28b1d040fa00a9f5","toSide":"right"},
+		{"id":"c7f975f25590af38","fromNode":"78090de41f11c43b","fromSide":"right","toNode":"28b1d040fa00a9f5","toSide":"left"}
+	]
+}

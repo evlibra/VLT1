@@ -16,8 +16,15 @@ mindmap-plugin: basic
 -[[ sub 4]]
 - sub 5
 	- Sub 5.2
+- Sub title
 
 ## Section 4
+- tyjuy67
+- uyj uyj
+- yu juy
+- yu juyujuy
+	- yuj uy
+	- Sub title
 
 ## Section 3
 - sample 1
