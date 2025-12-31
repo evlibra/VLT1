@@ -3,18 +3,17 @@
 mindmap-plugin: basic
 
 ---
-# sub 4
-ss44
-jhnghjiho
-gj 
 
-jgh j
+# sub 4
+[[sub b1]]
 
 ## sub 5
-yugb
- hr
- h
-  tyh
-   ty
-   hyt
-   jh
+- Sub title
+- Sub title
+    - Sub title
+- rh
+- yhytjh
+    - ytjhytj
+    - Sub title
+
+## gh
