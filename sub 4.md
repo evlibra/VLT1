@@ -7,7 +7,7 @@ mindmap-plugin: basic
 # sub 4
 
 ## sub 5
-- Sub title
+- Sub title 1
 - Sub title
     - Sub title
 - rh
