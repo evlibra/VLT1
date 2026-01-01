@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > [!PDF|] [[491033737-The-Over-40-Hormone-Reset-Diet.pdf#page=18&selection=27,85,28,7|491033737-The-Over-40-Hormone-Reset-Diet, p.18]]
 > > Martin Berkhan - > Lean Gains blog
 > 

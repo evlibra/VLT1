@@ -1,7 +1,6 @@
 ---
-
 mindmap-plugin: basic
-
+dg-publish: true
 ---
 
 This is your new *vault*.

@@ -1,13 +1,12 @@
 ---
-
 mindmap-plugin: basic
-
+dg-publish: true
 ---
 
 # sub 4
 
 ## sub 5
-- Sub title 1
+- Sub title
 - Sub title
     - Sub title
 - rh
