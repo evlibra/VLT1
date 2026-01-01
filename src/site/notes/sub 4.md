@@ -1,8 +1,7 @@
 ---
-
-mindmap-plugin: basic
-
+{"dg-publish":true,"permalink":"/sub-4/"}
 ---
+
 
 # sub 4
 
